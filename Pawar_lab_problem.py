@@ -17,7 +17,7 @@ paramNameList = ["bd1","d2","d3","a11","a12","a21",
              "a22","a23","a32","a33","ix1","ix2","ix3"]
 
 
-#Dictionary of parameter values
+#Dictionary of parameter values with initial values provided
 paramDictionary = {
     "bd1": 3.5,
     "d2": 0.5,
