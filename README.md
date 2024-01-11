@@ -1,5 +1,7 @@
 # Pawar Lab Modelling Exercise - Question 3
 
+# Requirements: Python 3, numpy, scipy and matplotlib
+
 This widget simulates the three-population food chain model described in the Modelling Exercise.
 
 The user can interact with the plot displayed using the toolbar to zoom in and out, save the plot etc., and the drop-down menus to choose which variables to plot.
